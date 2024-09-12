@@ -1,0 +1,35 @@
+.item-primary{
+    text-decoration:line-through;
+    opacity: 0.5;
+    width:100%
+}
+.to-do-box{
+    width: 500px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+.to-do-box h2{
+    margin: 5px 0px;
+    font-size: 15px;
+    line-height: 15px;
+}
+.to-do-input-container{
+    display: flex;
+    width: 100%;
+    gap: 10px;
+    margin-bottom:10px
+}
+.to-do-input{
+    width:100%;
+}
+.to-do-items{
+    display: flex;
+    width: 100%;
+    gap: 10px;
+    margin-bottom:10px
+}
+.to-do-item-label{
+    width:100%
+}
